@@ -1,6 +1,6 @@
 {
-  "tokens": [],
-  "secret_code": "",
+  "tokens": ["747502f797fc877491a7debc65f2bb2e7656badc36f67b7691396fb2b1449a6b62b1b1cd6cd81388d450c"],
+  "secret_code": "cp0lrvbvt",
   "delete_all_notify": false,
   "ru_captcha_key": "",
   "ignored_members": [],
@@ -8,8 +8,8 @@
   "muted_members": [],
   "aliases": [],
   "service_prefixes": [
-    "!слп",
-    ".слп"
+    "!лп",
+    ".лп"
   ],
   "self_prefixes": [
     "!л",
